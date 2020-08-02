@@ -1,0 +1,4 @@
+*.cpp
+build/
+dist/
+*.so
